@@ -64,7 +64,7 @@ It's shit.
 
 But hey, it was fun. :)
 
-[benchmark][https://github.com/oggy/freedom_patch/blob/master/benchmark.rb]
+[benchmark]: https://github.com/oggy/freedom_patch/blob/master/benchmark.rb
 
 ## Note on Patches/Pull Requests
 
