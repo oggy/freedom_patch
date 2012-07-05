@@ -1,3 +1,2 @@
-module FreedomPatch
-  autoload :VERSION, 'freedom_patch/version'
-end
+require 'freedom_patch/clean'
+require 'freedom_patch/core_ext'
