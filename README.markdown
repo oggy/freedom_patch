@@ -56,15 +56,13 @@ patch your way to independence thusly:
 
 It's shit.
 
-    $ ruby [benchmark.rb][benchmark]
+    $ ruby benchmark.rb
     ruby 1.9.3p194 (2012-04-20 revision 35410) [x86_64-darwin11.3.0]
                          user     system      total        real
     with freedom_patch   2.720000   0.020000   2.740000 (  2.741546)
     aliasing             1.010000   0.030000   1.040000 (  1.043165)
 
 But hey, it was fun. :)
-
-[benchmark]: https://github.com/oggy/freedom_patch/blob/master/benchmark.rb
 
 ## Note on Patches/Pull Requests
 
